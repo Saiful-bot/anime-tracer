@@ -1,0 +1,79 @@
+body{
+
+background:white;
+font-family:Arial;
+margin:0;
+width:100%;
+}
+
+.main{
+
+margin:auto;
+background:white;
+padding:40px;
+margin-top:50px;
+border-radius:10px;
+box-shadow:0 10px 30px rgba(0,0,0,0.1);
+text-align:center;
+
+
+}
+
+.drop{
+
+border:2px dashed #aaa;
+padding:40px;
+margin:20px;
+font-size:30%; 
+
+}
+
+button{
+
+padding:10px 20px;
+background:#3b82f6;
+border:none;
+color:white;
+border-radius:5px;
+font-size:18px ; 
+
+}
+
+.card{
+
+background:#fafafa;
+padding:0px;
+margin:0px;
+border-radius:8px;
+
+}
+
+#loading{
+
+display:none;
+margin:20px;
+
+}
+#file{
+font-size:18px ; 
+}
+
+input{
+width:80% ; 
+height:30px; 
+padding:5px; 
+font-size:16px; 
+}
+img{
+align-content:center ; 
+width:100%;
+}
+
+video{
+width:100%; 
+} 
+footer{
+text-align:center ; 
+margin:30px; 
+font-size:18px; 
+}
